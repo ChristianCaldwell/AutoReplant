@@ -1,0 +1,6 @@
+name: AutoReplant
+version: 1.0
+description: Example
+author: The_Little_Max
+main: testplugin.Testplugin
+ 
