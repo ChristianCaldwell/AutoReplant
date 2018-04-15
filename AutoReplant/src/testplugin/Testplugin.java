@@ -45,7 +45,6 @@ public class Testplugin extends JavaPlugin implements Listener {
 				i.addItem(drop);
 			}
 		} else {
-			e.setCancelled(true);
 			return;
 
 		}
